@@ -1,0 +1,1 @@
+I wanna make an online website, to store everything about a virtual character Venti from the game called Genshin Impact, list the things that should do , and start building it.
